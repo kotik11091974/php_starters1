@@ -12,3 +12,10 @@ https://c9.io/kodent?type=shared
 
 ---
 
+![alt scheme](images/c9-1.png "Начало работы")
+
+![alt scheme](images/c9-2.png "Вид окна с проектом")
+
+![alt scheme](images/c9-1.png "Запущен файл 1.php")
+
+![alt scheme](images/c9-4.png "Соответствие папки-файла и адреса страницы")
