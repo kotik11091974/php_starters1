@@ -1,4 +1,4 @@
-# php_starters1
+# PHP
 
 ![alt scheme](images/php.svg "Начало работы")
 
