@@ -1,21 +1,11 @@
 # php_starters1
 
-Основной способ введения в PHP - среда cloud9
+Что такое веб? Какую роль играет схема взаимодействия «клиент-сервер» ?
 
-https://c9.io/kodent?type=shared
+![alt scheme](images/web.png "Начало работы")
 
-логин - kodent, пароль - стандартный.
+Что такое протокол HTTP?
 
-Вам будет доступен проект, расшаренный из аккаунта gossoudarev
+Что такое URL-кодирование?
 
-и просматриваемый в интернете как https://php-study1-gossoudarev.c9users.io
-
----
-
-![alt scheme](images/c9-1.png "Начало работы")
-
-![alt scheme](images/c9-2.png "Вид окна с проектом")
-
-![alt scheme](images/c9-1.png "Запущен файл 1.php")
-
-![alt scheme](images/c9-4.png "Соответствие папки-файла и адреса страницы")
+Что объединяет и разделяет PHP и JavaScript?
