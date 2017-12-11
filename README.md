@@ -1,5 +1,7 @@
 # php_starters1
 
+![alt scheme](images/php.svg "Начало работы")
+
 Основной способ введения в PHP - среда cloud9
 
 https://c9.io/kodent?type=shared
