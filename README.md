@@ -4,8 +4,6 @@
 
 ![alt scheme](images/web.png "Начало работы")
 
-Что такое протокол HTTP?
-
-Что такое URL-кодирование?
+Что такое протокол HTTP? Что такое URL-кодирование? https://kodaktor.ru/g/urlcode 
 
 Что объединяет и разделяет PHP и JavaScript?
